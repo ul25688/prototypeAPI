@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "identifier": "1100",
+      "name": "Module 1: Designing My Academic Journey",
+      "description": "Module for guiding college students in navigating academic paths",
+      "author": "EM Team"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "identifier": "2200",
+      "name": "Module 2: Building a CV & Resume",
+      "description": "Module for introducing CV or resume building",
+      "author": "EM Team"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "identifier": "3300",
+      "name": "Module 3: Building Skills for Team Success",
+      "description": "Module on best practices for working in a team",
+      "author": "EM Team"
+    }
+
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nicky",
+      "identifier": 1,
+      "jobTitle": "Manager"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name":"Stevie",
+      "identifier":2,
+      "jobTitle": "Project Specialist"
+    }
+],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "EM Team's API",
+    "creator": "EM Team",
+    "about": "A collection of online educational modules",
+    "url": "https://www.EMTeam.info"
+  }
+}
