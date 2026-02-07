@@ -32,14 +32,16 @@
       "@type": "Person",
       "name": "Nicky",
       "id": 1,
-      "jobTitle": "Manager"
+      "jobTitle": "Manager",
+      "itemID":1100
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "name":"Stevie",
       "id":2,
-      "jobTitle": "Project Specialist"
+      "jobTitle": "Project Specialist",
+      "itemID":2200
     }
 ],
   "collection": {
@@ -52,3 +54,4 @@
   }
 
 }
+
