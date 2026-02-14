@@ -33,7 +33,7 @@
       "name": "Nicky",
       "id": 1,
       "jobTitle": "Manager",
-      "itemID":1100
+      "itemId":1100
     },
     {
       "@context": "https://schema.org",
@@ -41,7 +41,7 @@
       "name":"Stevie",
       "id":2,
       "jobTitle": "Project Specialist",
-      "itemID":2200
+      "itemId":2200
     }
 ],
   "collection": {
@@ -54,4 +54,5 @@
   }
 
 }
+
 
